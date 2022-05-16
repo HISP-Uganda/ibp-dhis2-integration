@@ -1,0 +1,43 @@
+[
+  { "id": "h9PXXqhQcKQ", "displayName": "project_organization.code" },
+  { "id": "wfNTPbGjRCL", "displayName": "project_organization.name" },
+  { "id": "vn6bwFBupTG", "displayName": "end_date" },
+  { "id": "E76e93SKVU9", "displayName": "function.code" },
+  { "id": "aetAiGAaxjG", "displayName": "function.name" },
+  {
+    "id": "Oq0fqIhb9RQ",
+    "displayName": "current_project_detail.investment_stats.total_cost"
+  },
+  { "id": "F2HUDUDuejj", "displayName": "code" },
+  { "id": "Fa3L6MarXZJ", "displayName": "phase.name" },
+  {
+    "id": "iXR0hf4lSCU",
+    "displayName": "current_project_detail.locations[0].location.name"
+  },
+  {
+    "id": "IOsSfWFSg4N",
+    "displayName": "current_project_detail.responsible_officers[0].name"
+  },
+  { "id": "k38zTXSGVk1", "displayName": "start_date" },
+  {
+    "id": "pGVLjJxRj6Z",
+    "displayName": "current_project_detail.summary"
+  },
+
+  {
+    "id": "tb20cLghi2s",
+    "displayName": "current_project_detail.responsible_officers[0].address"
+  },
+  {
+    "id": "uWz1OAtgHxL",
+    "displayName": "current_project_detail.responsible_officers[0].email"
+  },
+  {
+    "id": "xwTDxy7enaJ",
+    "displayName": "current_project_detail.responsible_officers[0].title"
+  },
+  {
+    "id": "fq4Ul0lD4qV",
+    "displayName": "current_project_detail.responsible_officers[0].phone"
+  }
+]
